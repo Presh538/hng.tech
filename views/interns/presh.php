@@ -21,7 +21,7 @@
                   <div class="col-md-6 col-xs-12 align-items-center">
                      <div class="intern-bio border-blue">
                         <h6>About me</h6>
-                        <p>I'm a dilligent and fast learner, with a good team-spirit. Skilled in product design and front-end development and also a budding app developer</p>
+                        <p>I'm a dilligent and fast learner, and ready for team-work. Skilled in product design and front-end development and also a budding app developer</p>
                         <br />
                         <h6>Skills</h6>
                         <p>HTML | CSS | Flutter</p>
